@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{9ECCF015-AEA4-444B-96F3-82BD6597DC13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex01_Singleton", "ConsoleApp1\Ex01_Singleton.csproj", "{9ECCF015-AEA4-444B-96F3-82BD6597DC13}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex02", "Ex02\Ex02.csproj", "{F11A1F2A-FAF8-4620-89EF-A0319B101077}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex02_factory", "Ex02\Ex02_factory.csproj", "{F11A1F2A-FAF8-4620-89EF-A0319B101077}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex04_Facade", "ex04_Facade\ex04_Facade.csproj", "{960D784C-E22E-4284-BB7A-C1842A710BD0}"
 EndProject
